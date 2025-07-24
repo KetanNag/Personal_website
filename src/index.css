@@ -9,6 +9,6 @@
     @apply scroll-smooth;
   }
   body {
-    @apply bg-gray-50 dark:bg-dark-bg text-gray-800 dark:text-gray-200 transition-colors duration-300;
+    @apply bg-background text-gray-200 transition-colors duration-300;
   }
 }
